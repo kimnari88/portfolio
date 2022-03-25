@@ -1063,3 +1063,11 @@ padding-top:10px;}
 .portfolio_item{height:230px;}
 .portfolio_bg{background:url(../images/portfolio/01.jpg);}
 
+@media (max-width:560px){
+    .timeline-event{width:100%;}
+    .about-border{display: none;}
+}
+
+@media (max-width:991px){
+    .about-border{display: none;}
+}
